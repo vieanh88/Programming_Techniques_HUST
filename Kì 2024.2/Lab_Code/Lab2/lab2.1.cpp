@@ -15,3 +15,4 @@ int main(){
     printf("z = %.2f\n", z);
     return 0;
 }
+//Bài 2.1 - Nguyen Viet Anh - 5307
